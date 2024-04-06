@@ -1,0 +1,114 @@
+body{
+    background-color: antiquewhite;
+    margin: 0px;
+    
+}
+h1{
+    font-size: 80px;
+    font-style: italic;
+    color: rgb(255, 145, 0);
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 1px 2px 4px black;
+    width: 1450px;
+    background-color: beige;
+    height: 100px;
+    border: 12px double red;
+}
+#p1{
+    color: blue;
+}
+.p1{
+    color: brown;
+}
+#p2{
+    font-weight: red;
+}
+strong{
+    border: 1px solid red;
+}
+.span-trois{
+    color: blue;
+}
+h2{
+    text-indent: 10%;
+    text-shadow: 1px 2px red;
+}
+.p5{
+    text-decoration: double;
+    font-size: large;
+    font-style: italic;
+    color: black;
+    text-indent: 5%;
+    line-height: 60px;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+}
+.p4{
+    line-height: 30px;
+    font-style: oblique;
+    text-indent: 2%;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    font-weight: 300;
+    color: blue;
+    
+}
+.div1{
+    background-color:blue;
+    width: 500px;
+    padding: 20px;
+    text-align: center;
+    border: solid red;
+    margin: 50px;
+    font-style: italic;
+    
+}
+td, th{
+    border: 1px double rgb(255, 145, 0);
+    padding: 15px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+.paire{
+    color: blue;
+    background-color: aqua;
+}
+img{
+    width: 400px;
+    border: 6px solid red;
+}
+#section1{
+    background-color: blue;
+    padding: 10px;
+    margin: 20px;
+    border: 2px double red;
+}
+nav{
+    width: 100%;
+    background: rgb(255, 205, 205);
+}
+nav a{
+    display: inline;
+    text-decoration: aqua;
+    padding: 20px 30px;
+    color: blue;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+nav li{
+    list-style-type: none;
+    float: left;
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+.table{
+    display: table;
+    margin: 0 auto;
+}
